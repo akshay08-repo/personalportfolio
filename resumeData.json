@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Hi, I'm Akshay Lingamaneni !!",
+    "description":"Software Engineer| Wed Developer| Learner| Photographer",
+    "image":"profilepic.jpg",
+    "bio":"I am Akshay Chowdhary Lingamaneni pursuing master's in Computer Science at University of Texas at Arlington, graduating in May 2021. I am currently working as a part-time Web Developer at UTA and before my master's I worked as a Software Developer for 2 years.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "alingamaneni8@gmail.com",
+    "phone": "513-363-6491",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Dallas, Texas",
+      "city":"Arlington",
+      "state":"Texas",
+      "zip": "76013"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1Q7gcs33TPhlPTaWhfa58qObqtVs86ddhi6rzu6qotWg/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/akshay.chowdary.9",
+        "className":"fa fa-facebook"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/akshaylingamaneni",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/akshay08-repo",
+        "className":"fa fa-github"
+      }
+    ],
+
+    
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"90%"
+      }
+      
+    ]
+  },
+  "resume":{
+    
+    "image":"img.jpg",
+    "image1":"Gitam.jpeg",
+    
+    "education1":[
+      {
+        
+        "school":"University of Texas at Arlington",
+        "degree":"Masters in Computer Science",
+        "specialization":"Specialization in Software Engineering and Database Systems",
+        "graduated":"August 2019 - May 2021",
+        "description":" GPA: 3.77"
+      }],
+      "education2":[
+      {
+        "school":"GITAM University",
+        "degree":"Bachelor's in Computer Science",
+        "specialization":"Specialization in Software Engineering and Database Systems",
+        "graduated":"June 2013 - May 2017",
+        "description":"GPA: 3.7"
+      }
+    ]
+    
+      
+    
+    
+  },
+  "portfolio":{
+    "image":"img.jpg",
+    "image1":"Gitam.jpeg",
+    "image2":"uber.png",
+    "image3":"accenture.png",
+    "work1":[
+      {
+        "title": "Web Developer",
+        "company":"University of Texas at Arlington",
+        "time":"Part-Time",
+        "years":"September 2020 - Present",
+        "description":"Responsibilities: Migrated legacy web applications to Cascade CMS to improve site maintenance while decreased latency by 25%. Enhanced code readability by switching to Object-oriented MySQLi API while futureproofing using table alias prefix.Facilitated GIT version control system for tracking changes in source code during development. Cut Down Page load time by 60 Seconds when performing bulk calls by implementing transaction management. Enhanced system scalability by switching from Cookies to Sessions while ensuring data security and durability"
+      
+      }],
+      
+
+"work2":[
+  {
+    "title": "Web Developer",
+    "company":"Radio Frequency and Auto Identificatio Labs",
+    "time":"Part-Time",
+    "years":"May 2020 - August 2020",
+    "description":"Responsibilities: Scheduled maintenance of the RAID Labs website using cPanel & WHM. Reorganized code to GitHub repo. Influenced data mining, and visualization in Supply Chain with applied Design for Six Sigma-Research to projects"
+  
+  }],
+
+      "work3":[
+      {
+        "title": "Data Analyst",
+        "company":"Uber",
+        "time":"Full-Time",
+        "years":"December 2018 - June 2019",
+        "description":"Responsibilities: Built advanced insights for more robust system state monitoring via tools for optimizing process of on-boarding riders. Increased lead generation through intensive analysis by tuning the PL/SQL scripts by 20% to drive growth strategies. Conceptualized a top-level info-graphic view by harnessing Power BI for employee survey feedback summary"
+      
+      }],
+      "work4":[
+      {
+        "title": "Full Stack Java Developer",
+        "company":"Accenture Services Pvt.Ltd",
+        "time":"Full-Time",
+        "years":"May 2017 - October 2018",
+        "description":"Responsibilities: Modified LDAP certificates renewed by the Schlumberger Entrust team (login authentication) in the JAVA caerts file to ensure encryption via Https. Automated process of uploading output to downstream applications by a shared location. Migrated applications to Amsterdam servers to reduce customer acquisition costs while boosting performance by 15%.The overhauled user experience by fine-tuning SQL queries for client data retrieval from 2M records accessed by 2000+ employees.Demonstrated skills by preparing Unit Test Cases document, designing database schema and version control via GitHub"
+      
+      }]
+
+  }
+  
+}
